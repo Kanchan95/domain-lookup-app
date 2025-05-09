@@ -24,26 +24,6 @@ A full-stack web application for querying domain registration information using 
 - **Styling**: Custom CSS
 - **Version Control**: Git, GitHub
 
----
-
-## 📁 Project Structure
-
-domain-lookup-app/
-│
-├── backend/ # Flask backend
-│ ├── app.py # Main backend logic
-│ ├── .env # API key stored here (do NOT commit)
-│ ├── requirements.txt # Python dependencies
-│ └── ...
-│
-├── frontend/ # React frontend
-│ ├── public/
-│ ├── src/
-│ ├── App.js
-│ ├── App.css
-│ └── ...
-│
-└── README.md
 
 ---
 
